@@ -10,7 +10,7 @@ Bulk Rename is a Python-based command-line tool that renames files in bulk by re
 
 ## Installation 📦
 
-Install Bulk Rename via the [Kevin Package-Manager](https://github.com/kevinveenbirkenbach/package-manager):
+Install Bulk Rename via [Kevin's Package-Manager](https://github.com/kevinveenbirkenbach/package-manager):
 
 ```bash
 pkgmgr clone bulk-rename
