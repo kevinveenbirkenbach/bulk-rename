@@ -1,4 +1,6 @@
 # Bulk Rename 🚀
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-blue?logo=github)](https://github.com/sponsors/kevinveenbirkenbach) [![Patreon](https://img.shields.io/badge/Support-Patreon-orange?logo=patreon)](https://www.patreon.com/c/kevinveenbirkenbach) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20Coffee-Funding-yellow?logo=buymeacoffee)](https://buymeacoffee.com/kevinveenbirkenbach) [![PayPal](https://img.shields.io/badge/Donate-PayPal-blue?logo=paypal)](https://s.veen.world/paypaldonate)
+
 
 Bulk Rename is a Python-based command-line tool that renames files in bulk by replacing specified substrings in their filenames. It supports both recursive and non-recursive renaming, and it’s installable via [Kevin's Package-Manager](https://github.com/kevinveenbirkenbach/package-manager) under the alias `bure`.
 
